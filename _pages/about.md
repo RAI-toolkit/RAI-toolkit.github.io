@@ -27,13 +27,13 @@ For this purpose, the CLAIRE office Switzerland is establishing an active networ
 
 # Acknowledgement
 
-The Responsible AI toolkit is supported by:
+The Responsible AI toolkit is  supported by:
 
 
 - [CLAIRE Office Switzerland](https://claire-ai.ch)
 - [Responsible AI Innovation at the ZHAW Centre for Artificial Intelligence](https://www.zhaw.ch/en/engineering/institutes-centres/cai/responsible-ai-innovation-group/)
 - [ZHAW Digital](https://www.zhaw.ch/en/focus-topics/zhaw-digital/)
-- (DIZH Initiative)(https://dizh.ch)
+- [DIZH Initiative](https://dizh.ch)
 
 - DIZH Fellowship ---Ricardo
 - BRIDGE project

@@ -4,15 +4,15 @@ main:
     url: "/"
   - title: "portfolio"
     url: "/portfolio/"
-  - title: "about"
-    url: "/about/"
-  - title: "contact"
-    url: "/contact/"
   - title: "tags"
     url: /tags/
   - title: "archive"
     url: /year-archive/
   - title: "Sample Collections"
     url: /collection-archive/
+  - title: "about"
+    url: "/about/"
+  - title: "contact"
+    url: "/contact/"
   # - title: "Sitemap"
   #   url: /sitemap/

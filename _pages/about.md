@@ -10,7 +10,6 @@ The Responsible AI toolkit is a curated collection of resources ...
 
 
 
-
 ---
 # The Responsible AI toolkit is maintained by:
 

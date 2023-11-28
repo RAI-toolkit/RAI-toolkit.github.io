@@ -2,17 +2,25 @@
 main:
   - title: "Home"
     url: "/"
-  - title: "portfolio"
-    url: "/portfolio/"
+  - title: "readings"
+    url: "/readings/"
+  - title: "catalogs"
+    url: "/catalogs/"
+  - title: "assessment tools"
+    url: "/assessment/"
+  - title: "tech tools"
+    url: "/tech tools/"
+  - title: "governance"
+    url: "/governance/"
   - title: "tags"
-    url: /tags/
-  - title: "archive"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
+    url: "/tags/"
+#  - title: "archive"
+#    url: /year-archive/
+#  - title: "Sample Collections"
+#    url: /collection-archive/
   - title: "about"
     url: "/about/"
-  - title: "contact"
-    url: "/contact/"
+#  - title: "contact"
+#    url: "/contact/"
   # - title: "Sitemap"
   #   url: /sitemap/

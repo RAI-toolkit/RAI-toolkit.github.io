@@ -18,8 +18,7 @@ Lagerstrasse 41,
 
 <table style="width:100%">
 <tr>
- <td class="bottom"><a href="https://claire-aiP.org"><img src="/assets/images/logos/logo_Claire.jpg" alt="CLAIRE" width="200" border="10" ></a></td><td>&nbsp;</td>
- <td class="bottom"><a href="https://zhaw.ch"><img src="/assets/images/logos/logo_ZHAW.png" alt="Zurich University of Applied Sciences, ZHAW" width="100" border="10" /></a></td>
- <td class="bottom"><a href="https://dizh.ch"><img src="/assets/images/logos/logo_DIZH.png" alt="DIZH InitiativeZurich University of Applied Sciences, ZHAW" width="100" border="10" /></a></td>
+ 	<td class="bottom"><a href="https://claire-ai.org"><img src="/assets/images/logos/logo_Claire.jpg" alt="CLAIRE" width="200" border="10" ></a></td><td>&nbsp;</td>
+ 	<td class="bottom"><a href="https://zhaw.ch"><img src="/assets/images/logos/logo_ZHAW_CAI.png" alt="Zurich University of Applied Sciences, ZHAW" width="150" border="10" /></a></td>
+  <td class="bottom"><a href="https://dizh.ch"><img src="/assets/images/logos/logo_DIZH.jpg" alt="DIZH Initiative" width="250" border="10" /></a></td>
 </tr>
-</table>

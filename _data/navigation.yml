@@ -16,9 +16,9 @@ main:
 #    url: /year-archive/
 #  - title: "Sample Collections"
 #    url: /collection-archive/
-  - title: "about"
-    url: "/about/"
-#  - title: "contact"
-#    url: "/contact/"
+#  - title: "about"
+#    url: "/about/"
+  - title: "contact"
+    url: "/contact/"
   # - title: "Sitemap"
   #   url: /sitemap/

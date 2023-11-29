@@ -1,10 +1,9 @@
 ---
-title: Responsible AI Toolkit
-layout: collection
+title: "technology tools"
+layout: category
 permalink: /tech_tools/
-collection: cat_tech_tools
+author_profile: #true
 entries_layout: grid
+taxonomy: technology
 classes: wide
----
-
 ---

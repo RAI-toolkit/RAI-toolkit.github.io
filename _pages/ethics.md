@@ -1,10 +1,9 @@
 ---
-title: "governance tools"
+title: "ethics tools"
 layout: category
-permalink: /governance/
+permalink: /ethics/
 author_profile: #true
 entries_layout: grid
-taxonomy: governance
+taxonomy: ethics
 classes: wide
 ---
-

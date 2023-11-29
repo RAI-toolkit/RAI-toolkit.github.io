@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ricardo Chavarriaga"
+  name             : "Responsible AI Toolkit"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Head, CLAIRE Office Switzerland"
+  bio              : "Powered by the CLAIRE Office Switzerland"
   location         : "Zurich, Switzerland"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:yoffice-switzerland@claire-ai.org"
+      url: "mailto:office-switzerland@claire-ai.org"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://claire-ai.ch"

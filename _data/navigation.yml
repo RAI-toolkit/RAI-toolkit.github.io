@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Home"
+  - title: "home"
     url: "/"
   - title: "readings"
     url: "/readings/"
   - title: "ethics tools"
-    url: "/assessment/"
+    url: "/ethics/"
   - title: "technology tools"
     url: "/tech_tools/"
   - title: "governance tools"

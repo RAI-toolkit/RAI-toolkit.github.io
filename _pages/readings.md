@@ -1,9 +1,10 @@
 ---
-title: Responsible AI Toolkit
-layout: collection
+title: "governance tools"
+layout: category
 permalink: /readings/
-collection: cat_readings
+author_profile: #true
 entries_layout: grid
+taxonomy: readings
 classes: wide
 ---
 

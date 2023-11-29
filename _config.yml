@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Responsible AI Toolkit"
+  name             : #"Responsible AI Toolkit"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Powered by the CLAIRE Office Switzerland"
   location         : "Zurich, Switzerland"

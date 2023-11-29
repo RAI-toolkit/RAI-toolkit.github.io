@@ -9,7 +9,7 @@ main:
   - title: "assessment tools"
     url: "/assessment/"
   - title: "tech tools"
-    url: "/tech tools/"
+    url: "/tech_tools/"
   - title: "governance"
     url: "/governance/"
   - title: "tags"

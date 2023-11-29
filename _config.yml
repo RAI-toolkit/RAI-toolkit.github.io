@@ -279,22 +279,16 @@ compress_html:
 
 # Collections
 collections:
-  portfolio:
+  cat_ethics:
+    output: true
+    permalink: /:collection/:path/
+  cat_governance:
     output: true
     permalink: /:collection/:path/
   cat_readings:
     output: true
     permalink: /:collection/:path/
-  cat_catalogs:
-    output: true
-    permalink: /:collection/:path/
-  cat_assessment:
-    output: true
-    permalink: /:collection/:path/
   cat_tech_tools:
-    output: true
-    permalink: /:collection/:path/
-  cat_governance:
     output: true
     permalink: /:collection/:path/
 
@@ -305,11 +299,11 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: posts
-      author_profile: true
-      read_time: true
+      layout: single
+      author_profile: #true
+      read_time: #true
       comments: # true
-      share: true
+      share: #true
       related: true
   # _portfolio
   - scope:
@@ -327,23 +321,15 @@ defaults:
       layout: single
       author_profile: false
       share: #true
-  # _cat_catalogs
+  # _cat_ethics
   - scope:
       path: ""
-      type: cat_catalogs
+      type: _cat_ethics
     values:
       layout: single
       author_profile: false
       share: #true
-  # _cat_assessment
-  - scope:
-      path: ""
-      type: cat_assessment
-    values:
-      layout: single
-      author_profile: false
-      share: #true
-  # _tech_tools
+  # _cat_tech_tools
   - scope:
       path: ""
       type: cat_tech_tools
@@ -351,7 +337,7 @@ defaults:
       layout: single
       author_profile: false
       share: #true
-  # _governance
+  # _cat_governance
   - scope:
       path: ""
       type: cat_governance

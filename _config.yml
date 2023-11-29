@@ -132,6 +132,12 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:office-switzerland@claire-ai.org"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://claire-ai.ch"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:

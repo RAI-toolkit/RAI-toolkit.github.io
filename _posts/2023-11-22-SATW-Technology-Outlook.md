@@ -23,6 +23,6 @@ The four-quadrant diagram is the actual core of Technology Outlook: The chart sh
 
 Source: [Swiss Academy of Engineering Sciences SATW ](https://www.satw.ch/en/)
 
-Ethical Principles: Multiple Ethical Dimentions | 
+Ethical Principles: Trustworthy AI | 
 
 SDGs: 17. Partnership for the Goals | 

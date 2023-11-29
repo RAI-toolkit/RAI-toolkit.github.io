@@ -23,6 +23,6 @@ Partnership on AI (PAI) is a non-profit partnership of academic, civil society, 
 
 Source: [Partnership on AI](https://partnershiponai.org)
 
-Ethical Principles: Multiple Ethical Dimentions | 
+Ethical Principles: Trustworthy AI | 
 
 SDGs: 17. Partnership for the Goals | 

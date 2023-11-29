@@ -23,6 +23,6 @@ The Responsible Artificial Intelligence (RAI) Toolkit provides a centralized pro
 
 Source: [Department of Defense's Chief Digital and Artificial Intelligence Office (CDAO)](https://www.ai.mil)
 
-Ethical Principles: Multiple Ethical Dimentions | 
+Ethical Principles: Trustworthy AI | 
 
 SDGs: 17. Partnership for the Goals | 

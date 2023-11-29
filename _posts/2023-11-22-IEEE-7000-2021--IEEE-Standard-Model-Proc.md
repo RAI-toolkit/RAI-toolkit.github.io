@@ -23,6 +23,6 @@ A set of processes by which organizations can include consideration of ethical v
 
 Source: [IEEE Standards Association](https://standards.ieee.org/)
 
-Ethical Principles: Multiple Ethical Dimentions | 
+Ethical Principles: Trustworthy AI | 
 
 SDGs: 17. Partnership for the Goals | 

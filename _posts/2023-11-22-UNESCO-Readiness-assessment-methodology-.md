@@ -23,6 +23,6 @@ The Recommendation, in paragraph 49, states: "UNESCO recognizes that Member Stat
 
 Source: [UNESCO](https://www.unesco.org/en)
 
-Ethical Principles: Multiple Ethical Dimentions | 
+Ethical Principles: Trustworthy AI | 
 
 SDGs: 17. Partnership for the Goals | 

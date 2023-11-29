@@ -23,6 +23,6 @@ As the use of AI evolves, boards and the C-suite should consider these key AI-re
 
 Source: [Ernest & Young LLP](https://www.ey.com/)
 
-Ethical Principles: Multiple Ethical Dimentions | 
+Ethical Principles: Trustworthy AI | 
 
 SDGs: 17. Partnership for the Goals | 

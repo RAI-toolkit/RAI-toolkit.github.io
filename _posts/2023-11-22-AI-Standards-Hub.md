@@ -23,6 +23,6 @@ The new home of the AI standards community. Dedicated to knowledge sharing, capa
 
 Source: [Allan Turing Institute](https://www.turing.ac.uk/)
 
-Ethical Principles: Multiple Ethical Dimentions | 
+Ethical Principles: Trustworthy AI | 
 
 SDGs: N/A | 

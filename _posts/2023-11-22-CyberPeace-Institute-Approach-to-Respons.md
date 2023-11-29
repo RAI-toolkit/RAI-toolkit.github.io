@@ -23,6 +23,6 @@ CyberPeace Insititute principles on the usage of AI: data collection and process
 
 Source: [CyberPeace Institute](https://cyberpeaceinstitute.org)
 
-Ethical Principles: Multiple Ethical Dimentions | 
+Ethical Principles: Trustworthy AI | 
 
 SDGs: N/A | N/A

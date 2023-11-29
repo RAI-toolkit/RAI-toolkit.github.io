@@ -25,6 +25,6 @@ Swiss think tank Pour Demain conducted interviews with experts from 38 Swiss org
 
 Source: [Pour Demain](https://en.pourdemain.ch)
 
-Ethical Principles: Multiple Ethical Dimentions | 
+Ethical Principles: Trustworthy AI | 
 
 SDGs: 03. Good Health and Well-being | 09. Industry Innovation and Infrastructure

@@ -23,6 +23,6 @@ In-depth analysis of the latest tech trends, with highlights of the top research
 
 Source: [IEEE Computer Society](https://www.computer.org/publications/tech-news/trends)
 
-Ethical Principles: Multiple Ethical Dimentions | 
+Ethical Principles: Trustworthy AI | 
 
 SDGs:  | 

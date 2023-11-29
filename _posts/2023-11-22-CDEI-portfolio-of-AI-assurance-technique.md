@@ -23,6 +23,6 @@ This page provides details about the CDEI portfolio of AI assurance techniques a
 
 Source: [UK Department for Science, Innovation and Technology](https://www.gov.uk/)
 
-Ethical Principles: Multiple Ethical Dimentions | 
+Ethical Principles: Trustworthy AI | 
 
 SDGs: N/A | 

@@ -23,6 +23,6 @@ This is a compilation of books, papers, and resources that AI Ethicists recommen
 
 Source: [AI Truth](https://www.aitruth.org/about)
 
-Ethical Principles: Multiple Ethical Dimentions | 
+Ethical Principles: Trustworthy AI | 
 
 SDGs: 17. Partnership for the Goals | 

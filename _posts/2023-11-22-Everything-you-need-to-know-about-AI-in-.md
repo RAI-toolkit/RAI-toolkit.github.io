@@ -23,6 +23,6 @@ categories:
 
 Source: [World Economic Forum](https://www.weforum.org)
 
-Ethical Principles: Multiple Ethical Dimentions | 
+Ethical Principles: Trustworthy AI | 
 
 SDGs: N/A | 

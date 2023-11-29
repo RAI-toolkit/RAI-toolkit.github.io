@@ -23,6 +23,6 @@ The AI assessment catalog of Fraunhofer IAIS offers a structured guideline that 
 
 Source: [Fraunhofer Institute](https://www.iais.fraunhofer.de)
 
-Ethical Principles: Multiple Ethical Dimentions | 
+Ethical Principles: Trustworthy AI | 
 
 SDGs: N/A | 

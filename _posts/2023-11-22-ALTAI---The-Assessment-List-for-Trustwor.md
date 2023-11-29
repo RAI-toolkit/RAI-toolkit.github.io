@@ -23,6 +23,6 @@ This website contains the Assessment List for Trustworthy AI (ALTAI). ALTAI was 
 
 Source: [EU High-Level Expert Group on Artificial Intelligence](https://ec.europa.eu/digital-single-market/en/high-level-expert-group-artificial-intelligence)
 
-Ethical Principles: Multiple Ethical Dimentions | 
+Ethical Principles: Trustworthy AI | 
 
 SDGs: N/A | 

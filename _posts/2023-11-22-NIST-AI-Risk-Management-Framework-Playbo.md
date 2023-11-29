@@ -23,6 +23,6 @@ The Playbook provides suggested actions for achieving the outcomes laid out in t
 
 Source: [National Institute of Standards and Technology - NIST](https://www.nist.gov/)
 
-Ethical Principles: Multiple Ethical Dimentions | 
+Ethical Principles: Trustworthy AI | 
 
 SDGs: 17. Partnership for the Goals | 

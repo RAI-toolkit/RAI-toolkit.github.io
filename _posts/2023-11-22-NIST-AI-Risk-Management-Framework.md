@@ -23,6 +23,6 @@ The AI Risk Management Framework (AI RMF) is intended for voluntary use and to i
 
 Source: [National Institute of Standards and Technology - NIST](https://www.nist.gov/)
 
-Ethical Principles: Multiple Ethical Dimentions | 
+Ethical Principles: Trustworthy AI | 
 
 SDGs: 17. Partnership for the Goals | 

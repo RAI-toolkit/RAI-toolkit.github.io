@@ -23,6 +23,6 @@ The Global AI Standards Repository is the world's first centralized, transparent
 
 Source: [OCEANIS: Open Community for Ethics in Autonomous and Intelligent Systems]()
 
-Ethical Principles: Multiple Ethical Dimentions | 
+Ethical Principles: Trustworthy AI | 
 
 SDGs: 17. Partnership for the Goals | 

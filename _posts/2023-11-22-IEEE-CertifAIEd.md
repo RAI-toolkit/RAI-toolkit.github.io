@@ -23,6 +23,6 @@ IEEE CertifAIEd is a certification program for assessing ethics of Autonomous In
 
 Source: [IEEE Standards Association](https://standards.ieee.org/)
 
-Ethical Principles: Multiple Ethical Dimentions | 
+Ethical Principles: Trustworthy AI | 
 
 SDGs: N/A | 

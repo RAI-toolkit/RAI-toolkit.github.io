@@ -23,6 +23,6 @@ The Swiss Academy of Engineering Sciences SATW is the most important network of 
 
 Source: [Swiss Academy of Engineering Sciences SATWÊ](https://www.satw.ch/en/)
 
-Ethical Principles: Multiple Ethical Dimentions | 
+Ethical Principles: Trustworthy AI | 
 
 SDGs: 17. Partnership for the Goals | 

@@ -23,6 +23,6 @@ UNESCO's first-ever global standard on AI ethics - the 'Recommendation on the Et
 
 Source: [UNESCO](https://www.unesco.org/en)
 
-Ethical Principles: Multiple Ethical Dimentions | 
+Ethical Principles: Trustworthy AI | 
 
 SDGs: 17. Partnership for the Goals | 

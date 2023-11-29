@@ -23,6 +23,6 @@ The Recommendation on the Ethics of AI provides a framework to ensure that AI de
 
 Source: [UNESCO](https://www.unesco.org/en)
 
-Ethical Principles: Multiple Ethical Dimentions | 
+Ethical Principles: Trustworthy AI | 
 
 SDGs: 17. Partnership for the Goals | 

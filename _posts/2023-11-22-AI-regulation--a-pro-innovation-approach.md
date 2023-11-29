@@ -23,6 +23,6 @@ This white paper details our plans for implementing a pro-innovation approach to
 
 Source: [UK Department for Science, Innovation and Technology](https://www.gov.uk/)
 
-Ethical Principles: Multiple Ethical Dimentions | 
+Ethical Principles: Trustworthy AI | 
 
 SDGs: N/A | 

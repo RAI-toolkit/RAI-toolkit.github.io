@@ -23,6 +23,6 @@ There are tools and metrics out there that help AI actors to build and deploy AI
 
 Source: [OECD](https://www.oecd.org)
 
-Ethical Principles: Multiple Ethical Dimentions | 
+Ethical Principles: Trustworthy AI | 
 
 SDGs: 17. Partnership for the Goals | 

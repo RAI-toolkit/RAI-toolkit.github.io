@@ -23,6 +23,6 @@ This report was commissioned to (1) inform policy makers and regulatory stakehol
 
 Source: [Ernest & Young LLP - Trilateral Research](https://www.trilateralresearch.com/ )
 
-Ethical Principles: Multiple Ethical Dimentions | 
+Ethical Principles: Trustworthy AI | 
 
 SDGs: N/A | 

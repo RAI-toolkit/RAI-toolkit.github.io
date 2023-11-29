@@ -1,5 +1,5 @@
 ---
-title: "Resources by Category"
+title: "resources by category"
 layout: categories
 permalink: /categories/
 author_profile: true

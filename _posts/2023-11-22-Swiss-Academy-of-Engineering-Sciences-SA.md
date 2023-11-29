@@ -1,11 +1,11 @@
 ---
-title:  "Swiss Academy of Engineering Sciences SATWÊ"  
+title:  "Swiss Academy of Engineering Sciences SATW"  
 excerpt:  "The Swiss Academy of Engineering Sciences SATW is the most important network of experts for engineering sciences in Switzerland and is in contact with the highest Swiss bodies for science, politics and industry. The network is comprised of  (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Organi.png
 sidebar:
   - image: /assets/images/RAI_toolkit/Organi.png
-    image_alt: "Swiss Academy of Engineering Sciences SATWÊ"
+    image_alt: "Swiss Academy of Engineering Sciences SATW"
 tags:
   - Other Technologies
   - Artificial Intelligence
@@ -21,7 +21,7 @@ The Swiss Academy of Engineering Sciences SATW is the most important network of 
 
 [Link](https://www.satw.ch/en/publications/swiss-national-cyberstrategy-ncs-a-quantitative-assessment-of-the-cybersecurity-research-landscape)
 
-Source: [Swiss Academy of Engineering Sciences SATWÊ](https://www.satw.ch/en/)
+Source: [Swiss Academy of Engineering Sciences SATW](https://www.satw.ch/en/)
 
 Ethical Principles: Trustworthy AI | 
 

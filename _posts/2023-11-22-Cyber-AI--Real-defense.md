@@ -1,6 +1,6 @@
 ---
 title:  "Cyber AI: Real defense"  
-excerpt:  "As organizations struggle with security breaches, cyber AI can be a force multip (...)"  
+excerpt:  "As organizations struggle with security breaches, cyber AI can be a force multiplier, enabling security teams not only to respond faster than cyberattackers can move but also to anticipate these moves and act in advance. (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Readin.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - Security
   - General
 categories:
+  - readings
   - Readings
 ---
 As organizations struggle with security breaches, cyber AI can be a force multiplier, enabling security teams not only to respond faster than cyberattackers can move but also to anticipate these moves and act in advance.

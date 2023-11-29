@@ -1,6 +1,6 @@
 ---
 title:  "AI Asessment catalog"  
-excerpt:  "The AI assessment catalog of Fraunhofer IAIS offers a structured guideline that  (...)"  
+excerpt:  "The AI assessment catalog of Fraunhofer IAIS offers a structured guideline that can be used to concretize abstract quality standards into application-specific assessment criteria. (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Assess.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - Policy Making
   - General
 categories:
+  - ethics
   - Assessment Tool
 ---
 The AI assessment catalog of Fraunhofer IAIS offers a structured guideline that can be used to concretize abstract quality standards into application-specific assessment criteria.

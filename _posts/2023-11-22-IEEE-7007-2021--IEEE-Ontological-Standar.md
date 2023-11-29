@@ -1,6 +1,6 @@
 ---
 title:  "IEEE 7007-2021: IEEE Ontological Standard for Ethically Driven Robotics and Automation Systems"  
-excerpt:  "A set of ontologies with different abstraction levels that contain concepts, def (...)"  
+excerpt:  "A set of ontologies with different abstraction levels that contain concepts, definitions, axioms, and use cases that assist in the development of ethically driven methodologies for the design of robots and automation systems is established  (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Standa.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - General
   - Industry 4.0
 categories:
+  - governance
   - Standard
 ---
 A set of ontologies with different abstraction levels that contain concepts, definitions, axioms, and use cases that assist in the development of ethically driven methodologies for the design of robots and automation systems is established by this standard. It focuses on the robotics and automation domain without considering any particular applications and can be used in multiple ways, for instance, during the development of robotics and automation systems as a guideline or as a reference "taxonomy" to enable clear and precise communication among members from different communities that include robotics and automation, ethics, and correlated areas. Users of this standard need to have a minimal knowledge of formal logics to understand the axiomatization expressed in Common Logic Interchange Format. Additional information can be found at https://standards.ieee.org/industry-connections/ec/autonomous-systems.html.

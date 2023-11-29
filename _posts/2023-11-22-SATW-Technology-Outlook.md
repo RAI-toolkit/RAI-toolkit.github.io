@@ -1,6 +1,6 @@
 ---
 title:  "SATW Technology Outlook"  
-excerpt:  "The four-quadrant diagram is the actual core of Technology Outlook: The chart sh (...)"  
+excerpt:  "The four-quadrant diagram is the actual core of Technology Outlook: The chart shows four fields with different categories. The technologies are positioned according to their economic importance (horizontal axis) and the corresponding resear (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Report.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - Innovation
   - Policy Making
 categories:
+  - readings
   - Report
 ---
 The four-quadrant diagram is the actual core of Technology Outlook: The chart shows four fields with different categories. The technologies are positioned according to their economic importance (horizontal axis) and the corresponding research competence in Switzerland (vertical axis).

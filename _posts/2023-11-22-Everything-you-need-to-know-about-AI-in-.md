@@ -14,6 +14,7 @@ tags:
   - General
   - Policy Making
 categories:
+  - readings
   - Readings
 ---
 

@@ -1,6 +1,6 @@
 ---
 title:  "US Dept Defense Responsible Artificial Intelligence Toolkit"  
-excerpt:  "The Responsible Artificial Intelligence (RAI) Toolkit provides a centralized pro (...)"  
+excerpt:  "The Responsible Artificial Intelligence (RAI) Toolkit provides a centralized process that identifies, tracks, and improves alignment of AI projects to RAI best practices and the DoD AI Ethical Principles, while capitalizing on opportunities (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Recomm.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - General
   - Policy Making
 categories:
+  - technology
   - Recommendation
 ---
 The Responsible Artificial Intelligence (RAI) Toolkit provides a centralized process that identifies, tracks, and improves alignment of AI projects to RAI best practices and the DoD AI Ethical Principles, while capitalizing on opportunities for innovation. The RAI Toolkit provides an intuitive flow guiding the user through tailorable and modular assessments, tools, and artifacts throughout the AI product lifecycle. The process enables traceability and assurance of responsible AI practice, development, and use.

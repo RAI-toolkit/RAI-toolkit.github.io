@@ -1,6 +1,6 @@
 ---
 title:  "UNESCO Ethical Impact Assessment tool"  
-excerpt:  "The Recommendation on the Ethics of AI provides a framework to ensure that AI de (...)"  
+excerpt:  "The Recommendation on the Ethics of AI provides a framework to ensure that AI developments align with the promotion and protection of human rights and human dignity, environmental sustainability, fairness, inclusion and gender equality. It  (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Assess.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - General
   - Policy Making
 categories:
+  - ethics
   - Assessment Tool
 ---
 The Recommendation on the Ethics of AI provides a framework to ensure that AI developments align with the promotion and protection of human rights and human dignity, environmental sustainability, fairness, inclusion and gender equality. It underscores that these goals and principles should inform technological developments in an ex-ante manner. To support effective implementation, UNESCO developed two instruments, the Readiness Assessment Methodology and the Ethical Impact Assessment.

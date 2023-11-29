@@ -2,7 +2,7 @@
 title:  "Microsoft Responsible AI Toolbox"  
 excerpt:  "Responsible AI Toolbox Capabilities
 
-The Responsible AI Toolbox enables AI pract (...)"  
+The Responsible AI Toolbox enables AI practitioners to design flexible and custom model assessment and decision-making workflows for their individual situation. It consists of different components with u (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Techni.png
 sidebar:
@@ -16,6 +16,7 @@ tags:
   - AI Development
   - General
 categories:
+  - technology
   - Technical tool
 ---
 Responsible AI Toolbox Capabilities

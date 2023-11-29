@@ -1,6 +1,6 @@
 ---
 title:  "Cybersecurity and AI: The challenges and opportunities"  
-excerpt:  "As Artificial Intelligence (AI) advances rapidly, so does its potential to be us (...)"  
+excerpt:  "As Artificial Intelligence (AI) advances rapidly, so does its potential to be used in cybercrime. (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Readin.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - Security
   - General
 categories:
+  - readings
   - Readings
 ---
 As Artificial Intelligence (AI) advances rapidly, so does its potential to be used in cybercrime.

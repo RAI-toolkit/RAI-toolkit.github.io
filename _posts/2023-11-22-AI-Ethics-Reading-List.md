@@ -1,6 +1,6 @@
 ---
 title:  "AI Ethics Reading List"  
-excerpt:  "This is a compilation of books, papers, and resources that AI Ethicists recommen (...)"  
+excerpt:  "This is a compilation of books, papers, and resources that AI Ethicists recommend to help you manage your AI initiatives responsibly or to in general get to know AI ethics better. Thanks to all who have helped compile the list. Please consi (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Readin.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - General
   - Policy Making
 categories:
+  - readings
   - Readings
 ---
 This is a compilation of books, papers, and resources that AI Ethicists recommend to help you manage your AI initiatives responsibly or to in general get to know AI ethics better. Thanks to all who have helped compile the list. Please consider this a living, ever-evolving list as new AI Ethics works come forward.

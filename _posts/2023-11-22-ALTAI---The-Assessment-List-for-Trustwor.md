@@ -1,6 +1,6 @@
 ---
 title:  "ALTAI - The Assessment List for Trustworthy Artificial Intelligence"  
-excerpt:  "This website contains the Assessment List for Trustworthy AI (ALTAI). ALTAI was  (...)"  
+excerpt:  "This website contains the Assessment List for Trustworthy AI (ALTAI). ALTAI was developed by the High-Level Expert Group on Artificial Intelligence set up by the European Commission to help assess whether the AI system that is being develop (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Assess.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - General
   - General
 categories:
+  - ethics
   - Assessment Tool
 ---
 This website contains the Assessment List for Trustworthy AI (ALTAI). ALTAI was developed by the High-Level Expert Group on Artificial Intelligence set up by the European Commission to help assess whether the AI system that is being developed, deployed, procured or used, complies with the seven requirements of Trustworthy AI, as specified in our Ethics Guidelines for Trustworthy AI.

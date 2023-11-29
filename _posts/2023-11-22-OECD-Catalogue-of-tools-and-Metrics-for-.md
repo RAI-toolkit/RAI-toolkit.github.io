@@ -1,6 +1,6 @@
 ---
 title:  "OECD Catalogue of tools and Metrics for Trustworthy AI"  
-excerpt:  "There are tools and metrics out there that help AI actors to build and deploy AI (...)"  
+excerpt:  "There are tools and metrics out there that help AI actors to build and deploy AI systems that are trustworthy. However, these tools and metrics are often hard to find and absent from the ongoing AI policy discussions. This catalogue makes i (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Catalo.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - General
   - Policy Making
 categories:
+  - technology
   - Catalog
 ---
 There are tools and metrics out there that help AI actors to build and deploy AI systems that are trustworthy. However, these tools and metrics are often hard to find and absent from the ongoing AI policy discussions. This catalogue makes it easier to find tools and metrics by providing a one-stop-shop for helpful approaches, mechanisms and practices for trustworthy AI.

@@ -1,7 +1,8 @@
 ---
 title:  "TensorFlow Responsible AI tools"  
 excerpt:  "
-Learn how to integrate Responsible AI practices into your ML workflow using Ten (...)"  
+Learn how to integrate Responsible AI practices into your ML workflow using TensorFlow
+TensorFlow is committed to helping make progress in the responsible development of AI by sharing a collection of resources and tools with the ML communi (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Techni.png
 sidebar:
@@ -15,6 +16,7 @@ tags:
   - AI Development
   - General
 categories:
+  - technology
   - Technical tool
 ---
 

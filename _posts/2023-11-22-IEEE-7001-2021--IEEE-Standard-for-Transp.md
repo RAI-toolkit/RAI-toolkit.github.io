@@ -1,6 +1,6 @@
 ---
 title:  "IEEE 7001-2021: IEEE Standard for Transparency of Autonomous Systems"  
-excerpt:  "Measurable, testable levels of transparency, so that autonomous systems can be o (...)"  
+excerpt:  "Measurable, testable levels of transparency, so that autonomous systems can be objectively assessed, and levels of compliance determined, are described in this standard. (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Standa.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - General
   - General
 categories:
+  - governance
   - Standard
 ---
 Measurable, testable levels of transparency, so that autonomous systems can be objectively assessed, and levels of compliance determined, are described in this standard.

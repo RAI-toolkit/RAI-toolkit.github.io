@@ -1,6 +1,6 @@
 ---
 title:  "AI regulation: a pro-innovation approach"  
-excerpt:  "This white paper details our plans for implementing a pro-innovation approach to (...)"  
+excerpt:  "This white paper details our plans for implementing a pro-innovation approach to AI regulation. We're seeking views through a supporting consultation. (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Report.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - Policy Making
   - General
 categories:
+  - readings
   - Report
 ---
 This white paper details our plans for implementing a pro-innovation approach to AI regulation. We're seeking views through a supporting consultation.

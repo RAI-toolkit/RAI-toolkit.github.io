@@ -1,6 +1,6 @@
 ---
 title:  "AI Standards Hub"  
-excerpt:  "The new home of the AI standards community. Dedicated to knowledge sharing, capa (...)"  
+excerpt:  "The new home of the AI standards community. Dedicated to knowledge sharing, capacity building, and world-leading research, the Hub aims to build a vibrant and diverse community around AI standards. (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Standa.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - Policy Making
   - General
 categories:
+  - governance
   - Standard
 ---
 The new home of the AI standards community. Dedicated to knowledge sharing, capacity building, and world-leading research, the Hub aims to build a vibrant and diverse community around AI standards.

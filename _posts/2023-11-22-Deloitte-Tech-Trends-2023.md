@@ -1,6 +1,6 @@
 ---
 title:  "Deloitte Tech Trends 2023"  
-excerpt:  "Deloitte's 14th annual Tech Trends report explores the impact of emerging techno (...)"  
+excerpt:  "Deloitte's 14th annual Tech Trends report explores the impact of emerging technologies on groundbreaking innovations and foundational business areas. Stories of pioneering organizations show what's happening now, describe what's new, and pr (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Report.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - General
   - Other
 categories:
+  - readings
   - Report
 ---
 Deloitte's 14th annual Tech Trends report explores the impact of emerging technologies on groundbreaking innovations and foundational business areas. Stories of pioneering organizations show what's happening now, describe what's new, and project what could be coming next.

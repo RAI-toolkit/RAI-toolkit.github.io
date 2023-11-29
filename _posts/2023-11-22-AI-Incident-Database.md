@@ -1,6 +1,6 @@
 ---
 title:  "AI Incident Database"  
-excerpt:  "The AI Incident Database is dedicated to indexing the collective history of harm (...)"  
+excerpt:  "The AI Incident Database is dedicated to indexing the collective history of harms or near harms realized in the real world by the deployment of artificial intelligence systems. Like similar databases in aviation and computer security, the A (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Catalo.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - General
   - Policy Making
 categories:
+  - ethics
   - Catalog
 ---
 The AI Incident Database is dedicated to indexing the collective history of harms or near harms realized in the real world by the deployment of artificial intelligence systems. Like similar databases in aviation and computer security, the AI Incident Database aims to learn from experience so we can prevent or mitigate bad outcomes.

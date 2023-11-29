@@ -1,6 +1,6 @@
 ---
 title:  "A survey of artificial intelligence risk assessment methodologies"  
-excerpt:  "This report was commissioned to (1) inform policy makers and regulatory stakehol (...)"  
+excerpt:  "This report was commissioned to (1) inform policy makers and regulatory stakeholders about noteworthy approaches to AI risk assessment, including leading practices, and (2) to inform rulemaking on AI risk assessment. The survey covers: lega (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Report.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - Policy Making
   - General
 categories:
+  - ethics
   - Report
 ---
 This report was commissioned to (1) inform policy makers and regulatory stakeholders about noteworthy approaches to AI risk assessment, including leading practices, and (2) to inform rulemaking on AI risk assessment. The survey covers: legal and regulatory approaches, current work at international bodies, work by standards development organizations, industry approaches and prominent approaches proposed in civil-society and academic literature. 

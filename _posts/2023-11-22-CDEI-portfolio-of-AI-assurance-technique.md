@@ -1,6 +1,6 @@
 ---
 title:  "CDEI portfolio of AI assurance techniques"  
-excerpt:  "This page provides details about the CDEI portfolio of AI assurance techniques a (...)"  
+excerpt:  "This page provides details about the CDEI portfolio of AI assurance techniques and how to use it. (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Catalo.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - General
   - General
 categories:
+  - ethics
   - Catalog
 ---
 This page provides details about the CDEI portfolio of AI assurance techniques and how to use it.

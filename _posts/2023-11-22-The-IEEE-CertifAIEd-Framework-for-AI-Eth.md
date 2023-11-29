@@ -1,6 +1,6 @@
 ---
 title:  "The IEEE CertifAIEd Framework for AI Ethics Applied to the City of Vienna"  
-excerpt:  "In a proof-of-concept collaboration between the IEEE Standards Association (IEEE (...)"  
+excerpt:  "In a proof-of-concept collaboration between the IEEE Standards Association (IEEE SA) and the City of Vienna, the newly developed IEEE CertifAIEd framework was successfully applied to an artificial intelligence (AI) system for the automatic  (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Readin.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - Smart Cities
   - Energy
 categories:
+  - readings
   - Readings
 ---
 In a proof-of-concept collaboration between the IEEE Standards Association (IEEE SA) and the City of Vienna, the newly developed IEEE CertifAIEd framework was successfully applied to an artificial intelligence (AI) system for the automatic categorization of incoming customer requests.

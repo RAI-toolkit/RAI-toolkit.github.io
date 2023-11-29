@@ -1,6 +1,6 @@
 ---
 title:  "Trust Valley"  
-excerpt:  "The Trust Valley is a public-private partnership aimed at promoting the excellen (...)"  
+excerpt:  "The Trust Valley is a public-private partnership aimed at promoting the excellence of the Lake Geneva region in the field of digital trust and cybersecurity. (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Organi.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - Security
   - Innovation
 categories:
+  - others
   - Organization
 ---
 The Trust Valley is a public-private partnership aimed at promoting the excellence of the Lake Geneva region in the field of digital trust and cybersecurity.

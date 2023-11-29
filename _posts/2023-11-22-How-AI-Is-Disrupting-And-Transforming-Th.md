@@ -1,11 +1,11 @@
 ---
-title:  "How AI Is Disrupting And Transforming The Cybersecurity Landscape"  
-excerpt:  "One of the reasons for the rapid acceleration of cybercrime is the lower barrier (...)"  
+title:  "How AI is Disrupting And Transforming The Cybersecurity Landscape"  
+excerpt:  "One of the reasons for the rapid acceleration of cybercrime is the lower barrier to entry for malicious actors. Cybercriminals have evolved their business models, including now offering subscription services and starter kits. The use of lar (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Readin.png
 sidebar:
   - image: /assets/images/RAI_toolkit/Readin.png
-    image_alt: "How AI Is Disrupting And Transforming The Cybersecurity Landscape"
+    image_alt: "How AI is Disrupting And Transforming The Cybersecurity Landscape"
 tags:
   - Artificial Intelligence
   - Cyber Technologies
@@ -14,6 +14,7 @@ tags:
   - Security
   - General
 categories:
+  - readings
   - Readings
 ---
 One of the reasons for the rapid acceleration of cybercrime is the lower barrier to entry for malicious actors. Cybercriminals have evolved their business models, including now offering subscription services and starter kits. The use of large language models (LLMs) like ChatGPT to write malicious code also highlights the potential challenges to cybersecurity.

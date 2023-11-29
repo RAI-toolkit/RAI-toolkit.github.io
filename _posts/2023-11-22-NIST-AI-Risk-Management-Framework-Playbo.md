@@ -1,6 +1,6 @@
 ---
 title:  "NIST AI Risk Management Framework Playbook"  
-excerpt:  "The Playbook provides suggested actions for achieving the outcomes laid out in t (...)"  
+excerpt:  "The Playbook provides suggested actions for achieving the outcomes laid out in the AI Risk Management Framework (AI RMF) Core (Tables 1 - 4 in AI RMF 1.0). Suggestions are aligned to each sub-category within the four AI RMF functions (Gover (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Recomm.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - General
   - Policy Making
 categories:
+  - governance
   - Recommendation
 ---
 The Playbook provides suggested actions for achieving the outcomes laid out in the AI Risk Management Framework (AI RMF) Core (Tables 1 - 4 in AI RMF 1.0). Suggestions are aligned to each sub-category within the four AI RMF functions (Govern, Map, Measure, Manage).

@@ -1,6 +1,6 @@
 ---
 title:  "Swiss National Cyberstrategy (NCS): A Quantitative Assessment of the Cybersecurity Research Landscape"  
-excerpt:  "This study provides the first systematic and quantitative evaluation of the Swis (...)"  
+excerpt:  "This study provides the first systematic and quantitative evaluation of the Swiss cybersecurity research landscape. It aims to guide policymakers, universities, and industries in addressing research imbalances, incentivising strategic areas (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Report.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - Security
   - Policy Making
 categories:
+  - readings
   - Report
 ---
 This study provides the first systematic and quantitative evaluation of the Swiss cybersecurity research landscape. It aims to guide policymakers, universities, and industries in addressing research imbalances, incentivising strategic areas and identifying potential gaps.

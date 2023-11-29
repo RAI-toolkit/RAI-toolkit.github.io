@@ -1,6 +1,6 @@
 ---
 title:  "NIST AI Risk Management Framework"  
-excerpt:  "The AI Risk Management Framework (AI RMF) is intended for voluntary use and to i (...)"  
+excerpt:  "The AI Risk Management Framework (AI RMF) is intended for voluntary use and to improve the ability to incorporate trustworthiness considerations into the design, development, use, and evaluation of AI products, services, and systems. (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Recomm.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - General
   - Policy Making
 categories:
+  - governance
   - Recommendation
 ---
 The AI Risk Management Framework (AI RMF) is intended for voluntary use and to improve the ability to incorporate trustworthiness considerations into the design, development, use, and evaluation of AI products, services, and systems.

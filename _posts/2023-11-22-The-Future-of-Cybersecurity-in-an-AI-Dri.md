@@ -1,6 +1,6 @@
 ---
 title:  "The Future of Cybersecurity in an AI-Driven World"  
-excerpt:  "Cybersecurity has evolved significantly as technology has advanced. Increased in (...)"  
+excerpt:  "Cybersecurity has evolved significantly as technology has advanced. Increased interconnectivity and digital transformation have both significantly altered how end users and businesses communicate, with geographical borders and time zones pr (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Readin.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - Security
   - Security
 categories:
+  - readings
   - Readings
 ---
 Cybersecurity has evolved significantly as technology has advanced. Increased interconnectivity and digital transformation have both significantly altered how end users and businesses communicate, with geographical borders and time zones proving far less obstructive than in recent years.

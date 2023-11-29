@@ -1,6 +1,6 @@
 ---
 title:  "Navigating the AI Landscape in Switzerland: Policy Implications for Critical Infrastructure"  
-excerpt:  "Switzerland's energy and health sectors will see the rapid adoption of AI system (...)"  
+excerpt:  "Switzerland's energy and health sectors will see the rapid adoption of AI systems in the coming years. Anticipated benefits include better, personalised healthcare, a reduced burden on health professionals, and more reliable energy producti (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Report.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - Health
   - Energy
 categories:
+  - readings
   - Report
 ---
 Switzerland's energy and health sectors will see the rapid adoption of AI systems in the coming years. Anticipated benefits include better, personalised healthcare, a reduced burden on health professionals, and more reliable energy production and distribution through a more resilient power grid. However, conversations with experts from the two fields reveal uncertainties regarding the liability of automated decision-making, and concerns

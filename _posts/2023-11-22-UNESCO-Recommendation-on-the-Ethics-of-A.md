@@ -1,6 +1,6 @@
 ---
 title:  "UNESCO Recommendation on the Ethics of Artificial Intelligence"  
-excerpt:  "UNESCO's first-ever global standard on AI ethics - the 'Recommendation on the Et (...)"  
+excerpt:  "UNESCO's first-ever global standard on AI ethics - the 'Recommendation on the Ethics of Artificial Intelligence' - was adopted by all 193 Member States in November 2021. (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Recomm.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - General
   - Policy Making
 categories:
+  - ethics
   - Recommendation
 ---
 UNESCO's first-ever global standard on AI ethics - the 'Recommendation on the Ethics of Artificial Intelligence' - was adopted by all 193 Member States in November 2021.

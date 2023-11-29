@@ -1,6 +1,6 @@
 ---
 title:  "Swiss Academy of Engineering Sciences SATWÊ"  
-excerpt:  "The Swiss Academy of Engineering Sciences SATW is the most important network of  (...)"  
+excerpt:  "The Swiss Academy of Engineering Sciences SATW is the most important network of experts for engineering sciences in Switzerland and is in contact with the highest Swiss bodies for science, politics and industry. The network is comprised of  (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Commun.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - Innovation
   - Policy Making
 categories:
+  - others
   - Community
 ---
 The Swiss Academy of Engineering Sciences SATW is the most important network of experts for engineering sciences in Switzerland and is in contact with the highest Swiss bodies for science, politics and industry. The network is comprised of elected individual members, member organisations and experts.

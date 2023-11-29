@@ -1,6 +1,6 @@
 ---
 title:  "Eight AI-related US policy issues for boards and management to consider"  
-excerpt:  "As the use of AI evolves, boards and the C-suite should consider these key AI-re (...)"  
+excerpt:  "As the use of AI evolves, boards and the C-suite should consider these key AI-related issues attracting US policymaker attention. (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Readin.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - Policy Making
   - Innovation
 categories:
+  - readings
   - Readings
 ---
 As the use of AI evolves, boards and the C-suite should consider these key AI-related issues attracting US policymaker attention.

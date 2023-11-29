@@ -1,6 +1,6 @@
 ---
 title:  "The IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems"  
-excerpt:  "The IEEE Global Initiative's mission is, "To ensure every stakeholder involved i (...)"  
+excerpt:  "The IEEE Global Initiative's mission is, "To ensure every stakeholder involved in the design and development of autonomous and intelligent systems is educated, trained, and empowered to prioritize ethical considerations so that these techno (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Standa.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - General
   - Policy Making
 categories:
+  - governance
   - Standard
 ---
 The IEEE Global Initiative's mission is, "To ensure every stakeholder involved in the design and development of autonomous and intelligent systems is educated, trained, and empowered to prioritize ethical considerations so that these technologies are advanced for the benefit of humanity."

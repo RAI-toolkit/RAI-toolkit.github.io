@@ -1,6 +1,6 @@
 ---
 title:  "IEEE Computer Society Trends"  
-excerpt:  "In-depth analysis of the latest tech trends, with highlights of the top research (...)"  
+excerpt:  "In-depth analysis of the latest tech trends, with highlights of the top research from the world's standard-bearer for computing professionals. (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Readin.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - General
   - General
 categories:
+  - readings
   - Readings
 ---
 In-depth analysis of the latest tech trends, with highlights of the top research from the world's standard-bearer for computing professionals.

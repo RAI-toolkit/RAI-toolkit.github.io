@@ -1,6 +1,6 @@
 ---
 title:  "Cyber-Defence Campus"  
-excerpt:  "The Cyber-Defence Campus (CYD Campus) was founded in 2019 in order to strengthen (...)"  
+excerpt:  "The Cyber-Defence Campus (CYD Campus) was founded in 2019 in order to strengthen Switzerland’s cyber defence and to anticipate cyber developments more quickly. It forms the link between the Swiss government, industry and academia in researc (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Organi.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - Security
   - Policy Making
 categories:
+  - others
   - Organization
 ---
 The Cyber-Defence Campus (CYD Campus) was founded in 2019 in order to strengthen Switzerland’s cyber defence and to anticipate cyber developments more quickly. It forms the link between the Swiss government, industry and academia in research, development, and training for cyber defence.

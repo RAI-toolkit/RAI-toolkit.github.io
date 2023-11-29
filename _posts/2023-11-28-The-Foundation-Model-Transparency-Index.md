@@ -1,6 +1,6 @@
 ---
 title:  "The Foundation Model Transparency Index"  
-excerpt:  "We introduce the Foundation Model Transparency Index to assess the transparency  (...)"  
+excerpt:  "We introduce the Foundation Model Transparency Index to assess the transparency of foundation model developers. We design the Index around 100 transparency indicators, which codify transparency for foundation models, the resources required  (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Assess.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - AI Development
   - General
 categories:
+  - ethics
   - Assessment Tool
 ---
 We introduce the Foundation Model Transparency Index to assess the transparency of foundation model developers. We design the Index around 100 transparency indicators, which codify transparency for foundation models, the resources required to build them, and their use in the AI supply chain.

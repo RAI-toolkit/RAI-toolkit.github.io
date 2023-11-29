@@ -1,6 +1,6 @@
 ---
 title:  "EASA Artificial Intelligence Roadmap 2.0"  
-excerpt:  "The EASA Artificial Intelligence Roadmap 2.0 outlines the Agency's vision for th (...)"  
+excerpt:  "The EASA Artificial Intelligence Roadmap 2.0 outlines the Agency's vision for the safety and ethical considerations of AI in aviation. (...)"  
 header:
   teaser: /assets/images/RAI_toolkit/Recomm.png
 sidebar:
@@ -14,6 +14,7 @@ tags:
   - Mobility
   - General
 categories:
+  - governance
   - Recommendation
 ---
 The EASA Artificial Intelligence Roadmap 2.0 outlines the Agency's vision for the safety and ethical considerations of AI in aviation.

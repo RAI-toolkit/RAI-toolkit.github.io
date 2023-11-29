@@ -1,10 +1,10 @@
 ---
 title:  "OCEANIS Global AI Standards Repository "  
-excerpt:  "The Global AI Standards Repository is the world's first centralized, transparent (...)"  
+excerpt:  "The Global AI Standards Repository is the world's first centralized, transparent notification system that captures AI and Autonomous and Intelligent Systems standards and standards in progress. If you would like to submit an entry, please u (...)"  
 header:
-  teaser: /assets/images/RAI_toolkit/Standa.png
+  teaser: /assets/images/RAI_toolkit/Catalo.png
 sidebar:
-  - image: /assets/images/RAI_toolkit/Standa.png
+  - image: /assets/images/RAI_toolkit/Catalo.png
     image_alt: "OCEANIS Global AI Standards Repository "
 tags:
   - Artificial Intelligence
@@ -14,7 +14,8 @@ tags:
   - General
   - Policy Making
 categories:
-  - Standard
+  - governance
+  - Catalog
 ---
 The Global AI Standards Repository is the world's first centralized, transparent notification system that captures AI and Autonomous and Intelligent Systems standards and standards in progress. If you would like to submit an entry, please use the submit button below.
 

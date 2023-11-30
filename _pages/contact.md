@@ -10,8 +10,8 @@ classes: wide
 
 <br>
 
-<p style="color:#003399;font-size:120%;"><b>CLAIRE Office Zürich</b></p>
-<p style="text-align:left;">Lagerstrasse 41,<br>
+<p style="color:#003399;font-size:140%;"><b>CLAIRE Office Zürich</b></p>
+<p style="text-align:left;font-size:120%;">Lagerstrasse 41,<br>
 8004 Zürich, Switzerland.</p>
 
 <p style="text-align:left;"><a href="mailto:office-zurich@claire-ai.org">office-zurich@claire-ai.org</a></p>

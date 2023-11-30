@@ -10,27 +10,29 @@ classes: wide
 
 <br>
 
-<h1 style="color:#003399;">CLAIRE Office Zürich</h1>
-<p style="text-align:left;font-size:120%;">Lagerstrasse 41,<br>
+<p style="color:#003399;font-size:120%;"><b>CLAIRE Office Zürich</b></p>
+<p style="text-align:left;">Lagerstrasse 41,<br>
 8004 Zürich, Switzerland.</p>
 
-<p style="text-align:left;font-size:120%;"><a href="mailto:office-zurich@claire-ai.org">office-zurich@claire-ai.org</a></p>
+<p style="text-align:left;"><a href="mailto:office-zurich@claire-ai.org">office-zurich@claire-ai.org</a></p>
 
 <br>
+<hr>
 
 <h1 style="color:#003399;">Powered by:</h1>
-<table style="width:100%">
+
+<table style="width:100%;align:center;">
 <tr>
- <td class="bottom" align="left">
-  <a href="https://claire-ai.ch/"><img src="/assets/images/logos/logo_Claire.jpg" alt="CLAIRE" width="200"></a>
+ <td class="middle" align="left" style="width: 25%;vertical-align:center">
+  <a href="https://claire-ai.ch/"><img src="/assets/images/logos/logo_Claire.jpg" alt="CLAIRE" width="100%" border="10"></a>
 </td>
 <td><div class="horizontalgap" style="width:100px"></div> </td>
-<td class="bottom" align="center">
-  <a href="https://www.zhaw.ch/en/engineering/institutes-centres/cai/responsible-ai-innovation-group/"><img src="/assets/images/logos/logo_ZHAW_CAI.png" alt="ZHAW Centre for Artificial Intelligence" width="150"></a>
+ <td class="middle" align="left" style="width: 25%;vertical-align:center">
+  <a href="https://www.zhaw.ch/en/engineering/institutes-centres/cai/responsible-ai-innovation-group/"><img src="/assets/images/logos/logo_ZHAW_CAI.png" alt="ZHAW Centre for Artificial Intelligence" width="100%" border="10" ></a>
  </td>
 <td><div class="horizontalgap" style="width:100px"></div> </td>
-<td class="bottom" align="center">
-  <a href="https://www.kraftpol.ch"><img src="/assets/images/logos/logo_KRAFTPOL.png" alt="Kraftpol" width="200"></a>
+ <td class="middle" align="left" style="width: 25%;vertical-align:center">
+  <a href="https://www.kraftpol.ch"><img src="/assets/images/logos/logo_KRAFTPOL.png" alt="Kraftpol" width="100%" border="10" ></a>
  </td>
 
  </tr>
@@ -40,13 +42,13 @@ classes: wide
 <hr>
 
 <h1 style="color:#003399;">Supported by:</h1>
-<table style="width:100%">
+<table style="width:30%">
 <tr>
- <td class="middle" align="center">
-  <a href="https://dizh.ch"><img src="/assets/images/logos/logo_DIZH.jpg" alt="DIZH Initiative" width="250" border="10" /></a>
+ <td class="middle" align="left" style="width: 25%;vertical-align:center">
+  <a href="https://dizh.ch"><img src="/assets/images/logos/logo_DIZH.jpg" alt="DIZH Initiative" width="300" border="10" /></a>
 </td>
-<td><div class="horizontalgap" style="width:60px"></div> </td>
-<!--<td class="middle" align="center">
+<!--<td><div class="horizontalgap" style="width:60px"></div> </td>
+<td class="middle" align="center">
   <a href="https://www.zhaw.ch/en/focus-topics/zhaw-digital/"><img src="/assets/images/logos/logo_ZHAW.png" alt="ZHAW Digital" width="80" border="10" /></a>
  </td>-->
  </tr>

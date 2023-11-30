@@ -1,13 +1,13 @@
 ---
 title: "governance tools"
 layout: category
-permalink: /governance/
+permalink: /governance_list/
 author_profile: true
-entries_layout: grid
+entries_layout: list #grid
 taxonomy: governance
 classes: wide
 ---
 
-[See resources as a list](/governance_list/)
+[See resources as a grid](/governance/)
 
 <hr>

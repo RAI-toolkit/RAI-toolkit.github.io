@@ -1,13 +1,13 @@
 ---
 title: "ethics tools"
 layout: category
-permalink: /ethics/
+permalink: /ethics_list/
 author_profile: true
-entries_layout: grid
+entries_layout: list
 taxonomy: ethics
 classes: wide
 ---
 
-[See resources as a list](/ethics_list/)
+[See resources as a grid](/ethics/)
 
 <hr>

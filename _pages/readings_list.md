@@ -8,6 +8,6 @@ taxonomy: readings
 classes: wide
 ---
 
-[See resources as a grid](/readings/)
+[see resources as a grid](/readings/)
 
 <hr>

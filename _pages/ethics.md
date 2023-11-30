@@ -8,6 +8,6 @@ taxonomy: ethics
 classes: wide
 ---
 
-[See resources as a list](/ethics_list/)
+[see resources as a list](/ethics_list/)
 
 <hr>

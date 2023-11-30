@@ -8,6 +8,6 @@ taxonomy: technology
 classes: wide
 ---
 
-[See resources as a list](/tech_tools_list/)
+[see resources as a list](/tech_tools_list/)
 
 <hr>

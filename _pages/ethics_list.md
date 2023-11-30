@@ -8,6 +8,6 @@ taxonomy: ethics
 classes: wide
 ---
 
-[See resources as a grid](/ethics/)
+[see resources as a grid](/ethics/)
 
 <hr>

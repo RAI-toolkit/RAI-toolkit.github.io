@@ -8,6 +8,6 @@ taxonomy: governance
 classes: wide
 ---
 
-[see resources as a list](/governance_list/)
+[see resources as a list (best for mobile)](/governance_list/)
 
 <hr>

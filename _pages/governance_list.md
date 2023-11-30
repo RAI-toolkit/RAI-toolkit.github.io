@@ -8,6 +8,6 @@ taxonomy: governance
 classes: wide
 ---
 
-[See resources as a grid](/governance/)
+[see resources as a grid](/governance/)
 
 <hr>

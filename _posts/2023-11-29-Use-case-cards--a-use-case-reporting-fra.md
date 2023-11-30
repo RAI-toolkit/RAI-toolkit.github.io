@@ -23,6 +23,8 @@ Despite recent efforts by the Artificial Intelligence (AI) community to move tow
 
 Source: [arXiv](https://doi.org/10.48550/arXiv.2306.13701)
 
-Ethical Principles: Trustworthy AI | 
+<hr>
+<h2>Ethical Principles: Trustworthy AI | </h2>
+<hr>
 
-SDGs:  | 
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>

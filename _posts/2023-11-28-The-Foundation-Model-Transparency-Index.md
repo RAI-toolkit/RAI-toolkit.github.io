@@ -23,6 +23,9 @@ We introduce the Foundation Model Transparency Index to assess the transparency 
 
 Source: [Stanford University](https://crfm.stanford.edu)
 
-Ethical Principles: Transparency | Privacy and Data Governance
+<hr>
+<h2>Ethical Principles: Transparency | Privacy and Data Governance</h2>
+<hr>
 
-SDGs: 09. Industry Innovation and Infrastructure | 
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-09.png" Width = "15%"/>

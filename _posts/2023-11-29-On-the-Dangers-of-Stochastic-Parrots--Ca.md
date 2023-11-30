@@ -23,6 +23,9 @@ The past 3 years of work in NLP have been characterized by the development and d
 
 Source: [Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency](https://dl.acm.org/doi/proceedings/10.1145/3442188)
 
-Ethical Principles: Trustworthy AI | 
+<hr>
+<h2>Ethical Principles: Trustworthy AI | </h2>
+<hr>
 
-SDGs:  | 
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-16.png" Width = "15%"/>

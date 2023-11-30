@@ -23,6 +23,9 @@ In a proof-of-concept collaboration between the IEEE Standards Association (IEEE
 
 Source: [IEEE Standards Association](https://standards.ieee.org/)
 
-Ethical Principles: Accountability | Transparency
+<hr>
+<h2>Ethical Principles: Accountability | Transparency</h2>
+<hr>
 
-SDGs: 11. Sustainable Cities and Communities | 
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-11.png" Width = "15%"/>

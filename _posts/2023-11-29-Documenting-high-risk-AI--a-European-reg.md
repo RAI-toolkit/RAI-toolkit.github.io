@@ -23,6 +23,8 @@ This article discusses transparency obligations introduced in the Artificial Int
 
 Source: [IEEE Computer Magazine](https://www.computer.org/csdl/magazine/co)
 
-Ethical Principles: Transparency | 
+<hr>
+<h2>Ethical Principles: Transparency | </h2>
+<hr>
 
-SDGs:  | 
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>

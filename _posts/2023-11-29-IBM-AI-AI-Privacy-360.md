@@ -23,6 +23,10 @@ The AI Privacy 360 Toolbox includes several tools to support the assessment of p
 
 Source: [IBM](https://research.ibm.com/topics/trustworthy-ai)
 
-Ethical Principles: Privacy and Data Governance | 
+<hr>
+<h2>Ethical Principles: Privacy and Data Governance | </h2>
+<hr>
 
-SDGs:  | 
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-16.png" Width = "15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-09.png" Width = "15%"/>

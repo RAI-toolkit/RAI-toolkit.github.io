@@ -23,6 +23,8 @@ Trained machine learning models are increasingly used to perform high-impact tas
 
 Source: [Proceedings of the conference on fairness, accountability, and transparency](https://dl.acm.org/doi/proceedings/10.1145/3287560)
 
-Ethical Principles: Trustworthy AI | 
+<hr>
+<h2>Ethical Principles: Trustworthy AI | </h2>
+<hr>
 
-SDGs:  | 
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>

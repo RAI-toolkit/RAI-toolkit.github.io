@@ -23,6 +23,8 @@ We have developed capAI, a conformity assessment procedure for AI systems, to pr
 
 Source: [SSRN](http://www.unibo.it/sitoweb/luciano.floridi/en)
 
-Ethical Principles: Trustworthy AI | 
+<hr>
+<h2>Ethical Principles: Trustworthy AI | </h2>
+<hr>
 
-SDGs:  | 
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>

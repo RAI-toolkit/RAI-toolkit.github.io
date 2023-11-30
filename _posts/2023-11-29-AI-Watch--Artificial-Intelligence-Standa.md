@@ -23,6 +23,8 @@ The European Commission presented in April 2021 the AI Act, its proposed legisla
 
 Source: [European Commission's Joint Research Centre (JRC)](https://joint-research-centre.ec.europa.eu/index_en)
 
-Ethical Principles: Trustworthy AI | 
+<hr>
+<h2>Ethical Principles: Trustworthy AI | </h2>
+<hr>
 
-SDGs:  | 
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>

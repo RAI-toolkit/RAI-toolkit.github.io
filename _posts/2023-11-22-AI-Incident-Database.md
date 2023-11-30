@@ -23,6 +23,9 @@ The AI Incident Database is dedicated to indexing the collective history of harm
 
 Source: [The Responsible AI Collaborative](https://incidentdatabase.ai)
 
-Ethical Principles: Transparency | Accountability
+<hr>
+<h2>Ethical Principles: Transparency | Accountability</h2>
+<hr>
 
-SDGs: 17. Partnership for the Goals | 
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-17.png" Width = "15%"/>

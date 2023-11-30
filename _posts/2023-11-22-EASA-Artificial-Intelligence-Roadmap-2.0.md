@@ -23,6 +23,8 @@ The EASA Artificial Intelligence Roadmap 2.0 outlines the Agency's vision for th
 
 Source: [Europan Aviation Safety Agency (EASA)](https://www.easa.europa.eu/en)
 
-Ethical Principles: Robustness and Safety | General
+<hr>
+<h2>Ethical Principles: Robustness and Safety | General</h2>
+<hr>
 
-SDGs:  | 
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>

@@ -23,6 +23,9 @@ There are tools and metrics out there that help AI actors to build and deploy AI
 
 Source: [OECD](https://www.oecd.org)
 
-Ethical Principles: Trustworthy AI | 
+<hr>
+<h2>Ethical Principles: Trustworthy AI | </h2>
+<hr>
 
-SDGs: 17. Partnership for the Goals | 
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-17.png" Width = "15%"/>

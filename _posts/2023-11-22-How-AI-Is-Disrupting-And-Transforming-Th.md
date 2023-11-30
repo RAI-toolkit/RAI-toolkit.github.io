@@ -23,6 +23,8 @@ One of the reasons for the rapid acceleration of cybercrime is the lower barrier
 
 Source: [Forbes](https://www.forbes.com)
 
-Ethical Principles: Robustness and Safety | Privacy and Data Governance
+<hr>
+<h2>Ethical Principles: Robustness and Safety | Privacy and Data Governance</h2>
+<hr>
 
-SDGs: N/A | 
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>

@@ -23,6 +23,9 @@ Data protection and security breaches were reported to the FDPIC by well-meaning
 
 Source: [Federal Data Protection and Information Commisioner](https://www.edoeb.admin.ch/edoeb/en/home.html)
 
-Ethical Principles: Privacy and Data Governance | Robustness and Safety
+<hr>
+<h2>Ethical Principles: Privacy and Data Governance | Robustness and Safety</h2>
+<hr>
 
-SDGs: 16. Peace Justice and Strong Institutions | 
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-16.png" Width = "15%"/>

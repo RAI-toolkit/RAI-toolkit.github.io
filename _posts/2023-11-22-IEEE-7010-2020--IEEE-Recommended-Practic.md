@@ -23,6 +23,10 @@ The impact of artificial intelligence or autonomous and intelligent systems (A/I
 
 Source: [IEEE Standards Association](https://standards.ieee.org/)
 
-Ethical Principles: Societal and Environmental Well-being | Multiple Ethical Dimentions
+<hr>
+<h2>Ethical Principles: Societal and Environmental Well-being | Multiple Ethical Dimentions</h2>
+<hr>
 
-SDGs: 03. Good Health and Well-being | 10. Reduced Inequalities
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-03.png" Width = "15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-10.png" Width = "15%"/>

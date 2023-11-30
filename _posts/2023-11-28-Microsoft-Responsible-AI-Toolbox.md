@@ -34,6 +34,10 @@ Responsible AI dashboard, a single pane of glass bringing together several matur
 
 Source: [Microsoft](https://responsibleaitoolbox.ai)
 
-Ethical Principles: Transparency | Diversity, Non-Discrimination and Fairness
+<hr>
+<h2>Ethical Principles: Transparency | Diversity, Non-Discrimination and Fairness</h2>
+<hr>
 
-SDGs: 10. Reduced Inequalities | 09. Industry Innovation and Infrastructure
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-10.png" Width = "15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-09.png" Width = "15%"/>

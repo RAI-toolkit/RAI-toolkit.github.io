@@ -23,6 +23,8 @@ The new home of the AI standards community. Dedicated to knowledge sharing, capa
 
 Source: [Allan Turing Institute](https://www.turing.ac.uk/)
 
-Ethical Principles: Trustworthy AI | 
+<hr>
+<h2>Ethical Principles: Trustworthy AI | </h2>
+<hr>
 
-SDGs: N/A | 
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>

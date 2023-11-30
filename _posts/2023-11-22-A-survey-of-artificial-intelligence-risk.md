@@ -23,6 +23,8 @@ This report was commissioned to (1) inform policy makers and regulatory stakehol
 
 Source: [Ernest & Young LLP - Trilateral Research](https://www.trilateralresearch.com/ )
 
-Ethical Principles: Trustworthy AI | 
+<hr>
+<h2>Ethical Principles: Trustworthy AI | </h2>
+<hr>
 
-SDGs: N/A | 
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>

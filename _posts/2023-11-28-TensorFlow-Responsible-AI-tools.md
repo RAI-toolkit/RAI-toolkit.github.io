@@ -27,6 +27,10 @@ TensorFlow is committed to helping make progress in the responsible development 
 
 Source: [TensorFlow](https://www.tensorflow.org)
 
-Ethical Principles: Trustworthy AI | 
+<hr>
+<h2>Ethical Principles: Trustworthy AI | </h2>
+<hr>
 
-SDGs: 10. Reduced Inequalities | 09. Industry Innovation and Infrastructure
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-10.png" Width = "15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-09.png" Width = "15%"/>

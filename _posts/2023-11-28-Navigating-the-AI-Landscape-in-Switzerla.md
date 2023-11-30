@@ -25,6 +25,10 @@ Swiss think tank Pour Demain conducted interviews with experts from 38 Swiss org
 
 Source: [Pour Demain](https://en.pourdemain.ch)
 
-Ethical Principles: Trustworthy AI | 
+<hr>
+<h2>Ethical Principles: Trustworthy AI | </h2>
+<hr>
 
-SDGs: 03. Good Health and Well-being | 09. Industry Innovation and Infrastructure
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-03.png" Width = "15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-09.png" Width = "15%"/>

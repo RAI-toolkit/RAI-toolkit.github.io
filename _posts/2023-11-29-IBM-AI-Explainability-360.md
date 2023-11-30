@@ -23,6 +23,9 @@ This extensible open source toolkit can help you comprehend how machine learning
 
 Source: [IBM](https://research.ibm.com/topics/trustworthy-ai)
 
-Ethical Principles: Transparency | 
+<hr>
+<h2>Ethical Principles: Transparency | </h2>
+<hr>
 
-SDGs:  | 
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-16.png" Width = "15%"/>

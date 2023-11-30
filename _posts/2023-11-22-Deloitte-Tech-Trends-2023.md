@@ -23,6 +23,8 @@ Deloitte's 14th annual Tech Trends report explores the impact of emerging techno
 
 Source: [Deloitte Insights](https://www2.deloitte.com/us/en/insights.html)
 
-Ethical Principles: Trustworthy AI | 
+<hr>
+<h2>Ethical Principles: Trustworthy AI | </h2>
+<hr>
 
-SDGs: N/A | 
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>

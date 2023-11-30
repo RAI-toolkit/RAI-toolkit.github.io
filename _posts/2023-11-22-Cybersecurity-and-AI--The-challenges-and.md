@@ -23,6 +23,8 @@ As Artificial Intelligence (AI) advances rapidly, so does its potential to be us
 
 Source: [World Economic Forum](https://www.weforum.org)
 
-Ethical Principles: Robustness and Safety | Privacy and Data Governance
+<hr>
+<h2>Ethical Principles: Robustness and Safety | Privacy and Data Governance</h2>
+<hr>
 
-SDGs: N/A | 
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>

@@ -23,6 +23,10 @@ This extensible open source toolkit can help you examine, report, and mitigate d
 
 Source: [IBM](https://research.ibm.com/topics/trustworthy-ai)
 
-Ethical Principles: Diversity, Non-Discrimination and Fairness | 
+<hr>
+<h2>Ethical Principles: Diversity, Non-Discrimination and Fairness | </h2>
+<hr>
 
-SDGs:  | 
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-05.png" Width = "15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-10.png" Width = "15%"/>

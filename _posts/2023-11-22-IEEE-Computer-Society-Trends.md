@@ -23,6 +23,8 @@ In-depth analysis of the latest tech trends, with highlights of the top research
 
 Source: [IEEE Computer Society](https://www.computer.org/publications/tech-news/trends)
 
-Ethical Principles: Trustworthy AI | 
+<hr>
+<h2>Ethical Principles: Trustworthy AI | </h2>
+<hr>
 
-SDGs:  | 
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>

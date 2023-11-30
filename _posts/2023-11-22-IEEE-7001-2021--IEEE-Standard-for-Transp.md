@@ -23,6 +23,9 @@ Measurable, testable levels of transparency, so that autonomous systems can be o
 
 Source: [IEEE Standards Association](https://standards.ieee.org/)
 
-Ethical Principles: Transparency | 
+<hr>
+<h2>Ethical Principles: Transparency | </h2>
+<hr>
 
-SDGs: 17. Partnership for the Goals | 
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-17.png" Width = "15%"/>

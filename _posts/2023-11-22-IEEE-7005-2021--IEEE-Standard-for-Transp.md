@@ -23,6 +23,10 @@ Specific methodologies to help employers in accessing, collecting, storing, util
 
 Source: [IEEE Standards Association](https://standards.ieee.org/)
 
-Ethical Principles: Privacy and Data Governance | Multiple Ethical Dimentions
+<hr>
+<h2>Ethical Principles: Privacy and Data Governance | Multiple Ethical Dimentions</h2>
+<hr>
 
-SDGs: 08. Decent Work and Economic Growth | 05. Gender Equality
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-08.png" Width = "15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-05.png" Width = "15%"/>

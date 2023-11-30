@@ -23,6 +23,8 @@ This white paper details our plans for implementing a pro-innovation approach to
 
 Source: [UK Department for Science, Innovation and Technology](https://www.gov.uk/)
 
-Ethical Principles: Trustworthy AI | 
+<hr>
+<h2>Ethical Principles: Trustworthy AI | </h2>
+<hr>
 
-SDGs: N/A | 
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>

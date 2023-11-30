@@ -23,6 +23,10 @@ This study provides the first systematic and quantitative evaluation of the Swis
 
 Source: [Swiss Academy of Engineering Sciences SATW](https://www.satw.ch/en/)
 
-Ethical Principles: Robustness and Safety | Privacy and Data Governance
+<hr>
+<h2>Ethical Principles: Robustness and Safety | Privacy and Data Governance</h2>
+<hr>
 
-SDGs: 09. Industry Innovation and Infrastructure | 16. Peace Justice and Strong Institutions
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-09.png" Width = "15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-16.png" Width = "15%"/>

@@ -24,6 +24,9 @@ In this paper, we introduce a framework for algorithmic auditing that supports a
 
 Source: [Proceedings of the 2020 conference on fairness, accountability, and transparency.](https://dl.acm.org/doi/proceedings/10.1145/3351095)
 
-Ethical Principles: Trustworthy AI | 
+<hr>
+<h2>Ethical Principles: Trustworthy AI | </h2>
+<hr>
 
-SDGs:  | 
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-16.png" Width = "15%"/>

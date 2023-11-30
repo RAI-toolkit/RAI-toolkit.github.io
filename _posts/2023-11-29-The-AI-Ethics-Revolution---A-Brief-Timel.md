@@ -23,6 +23,10 @@ The first 100 Brilliant Women in AI Ethics list was published in 2018 and since 
 
 Source: [Women in AI Ethics](https://medium.com/women-in-ai-ethics)
 
-Ethical Principles: Trustworthy AI | Diversity, Non-Discrimination and Fairness
+<hr>
+<h2>Ethical Principles: Trustworthy AI | Diversity, Non-Discrimination and Fairness</h2>
+<hr>
 
-SDGs: 05. Gender Equality | 17. Partnership for the Goals
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-05.png" Width = "15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-17.png" Width = "15%"/>

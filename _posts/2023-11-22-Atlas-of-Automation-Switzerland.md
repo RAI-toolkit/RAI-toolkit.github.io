@@ -23,6 +23,10 @@ The Atlas of Automation aims to shed light into this black box. It offers a firs
 
 Source: [AlgorithmWatch CH](https://algorithmwatch.org/en/)
 
-Ethical Principles: Accountability | Transparency
+<hr>
+<h2>Ethical Principles: Accountability | Transparency</h2>
+<hr>
 
-SDGs: 17. Partnership for the Goals | 16. Peace Justice and Strong Institutions
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-17.png" Width = "15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-16.png" Width = "15%"/>

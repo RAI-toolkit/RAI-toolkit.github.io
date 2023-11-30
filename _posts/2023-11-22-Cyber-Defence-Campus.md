@@ -23,6 +23,10 @@ The Cyber-Defence Campus (CYD Campus) was founded in 2019 in order to strengthen
 
 Source: [Cyber-Defence Campus](https://www.cydcampus.admin.ch/en)
 
-Ethical Principles: Robustness and Safety | Privacy and Data Governance
+<hr>
+<h2>Ethical Principles: Robustness and Safety | Privacy and Data Governance</h2>
+<hr>
 
-SDGs: 16. Peace Justice and Strong Institutions | 09. Industry Innovation and Infrastructure
+<img src="/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png" width="15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-16.png" Width = "15%"/>
+<img src="/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-09.png" Width = "15%"/>

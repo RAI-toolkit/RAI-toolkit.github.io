@@ -95,9 +95,19 @@ Sub ExportRowsAsTextFiles()
             Print #1,
             Print #1, "Source: ["; Range("P" & rowNum).Value; "]("; Range("Q" & rowNum).Value; ")"
             Print #1,
-            Print #1, "Ethical Principles: "; Range("J" & rowNum).Value; " | "; Range("K" & rowNum).Value; ""
+            Print #1, "<hr>"
+            Print #1, "<h2>Ethical Principles: "; Range("J" & rowNum).Value; " | "; Range("K" & rowNum).Value; "</h2>"
+            Print #1, "<hr>"
             Print #1,
-            Print #1, "SDGs: "; Range("L" & rowNum).Value; " | "; Range("M" & rowNum).Value; ""
+            'Print #1, "SDGs: "; Range("L" & rowNum).Value; " | "; Range("M" & rowNum).Value; ""
+            Print #1, "<img src=""/assets/images/sdg/SDG_Wheel_WEB/SDG_Wheel_WEB.png"" width=""15%""/>"
+            If Not (IsEmpty(Range("L" & rowNum).Value)) Then
+                Print #1, "<img src=""/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-" & Left(Range("L" & rowNum).Value, 2) & ".png"" Width = ""15%""/>"
+            End If
+            If Not (IsEmpty(Range("M" & rowNum).Value)) Then
+                Print #1, "<img src=""/assets/images/sdg/SDG_Icons_2019_WEB/E-WEB-Goal-" & Left(Range("M" & rowNum).Value, 2) & ".png"" Width = ""15%""/>"
+            End If
+
         Close #1
         
         

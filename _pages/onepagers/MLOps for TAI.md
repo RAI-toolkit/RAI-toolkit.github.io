@@ -10,10 +10,10 @@ header:
 
 <html>
 <body>
-<p class="p1"><span class="s1"><img src="MLOps_Image.png" alt="MLOps_Image.png"><br>
+<p class="p1"><span class="s1"><img src="/assets/images/onepagers/mlops_for_tai.png" alt="MLOps_Image.png"><br>
 Image by NVIDIA corporation</span></p>
 <h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; color: #012087; -webkit-text-stroke: #012087"><span class="s1"><b>MLOps for Trustworthy AI</b></span></h1>
-<p class="p3"><span class="s1">MLOps provides a framework to implement trustworthy AI and makes trustworthy AI realisable for industry players</span></p>
+<p class="p3"><span class="s1">MLOps provides a framework to implement trustworthy AI and makes trustworthy AI realisable for industry players.</span></p>
 <h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; color: #012087; -webkit-text-stroke: #012087"><span class="s1"><b>Setting</b></span></h2>
 <p class="p3"><span class="s1">Emerging regulations call for high-level ethical guidelines for Trustworthy AI (TAI). This rises the need for a framework of related technical guidelines and workflows. Machine Learning Operations (MLOps) is a framework inspired by DevOps (development and operations) and encompasses a set of methods, best practices and tools that cover all stages from project setup over deployment to continuous operation. MLOps can naturally be extended to meet the requirements of TAI.</span></p>
 <h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; color: #012087; -webkit-text-stroke: #012087"><span class="s1"><b>Dimensions</b></span></h2>

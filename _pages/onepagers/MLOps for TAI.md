@@ -7,20 +7,6 @@ classes: wide
 ---
 
 <html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2487.6">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 12.0px 0.0px; text-align: center; font: 12.0px Times; -webkit-text-stroke: #000000}
-    p.p3 {margin: 0.0px 0.0px 16.8px 0.0px; font: 16.8px Times; -webkit-text-stroke: #000000}
-    span.s1 {font-kerning: none}
-    span.s2 {font-kerning: none; color: #012087; -webkit-text-stroke: 0px #012087}
-    span.s3 {font: 16.8px Times; text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e9}
-  </style>
-</head>
 <body>
 <p class="p1"><span class="s1"><img src="MLOps_Image.png" alt="MLOps_Image.png"><br>
 Image by NVIDIA corporation</span></p>

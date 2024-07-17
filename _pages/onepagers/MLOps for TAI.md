@@ -12,12 +12,12 @@ header:
 <body>
 
 <!-- IMAGE -->
-<p class="image" style="font-size:6.0px; text-align:right;"><img src="/assets/images/onepagers/mlops_for_tai.png" alt="MLOps_Image.png"><br>
+<p class="image" style="font-size:10.0px; text-align:right;"><img src="/assets/images/onepagers/mlops_for_tai.png" alt="MLOps_Image.png"><br>
 Image by NVIDIA corporation</p>
 
 <!-- ABSTRACT -->
 <p style="color:red;">This is a red paragraph.</p>
-<p class="notice--info"><span style="font-size:18.0px;">MLOps provides a framework to implement trustworthy AI and makes trustworthy AI realisable for industry players.</span></p>
+<p class="notice--info"><span style="font-size:14.0px;">MLOps provides a framework to implement trustworthy AI and makes trustworthy AI realisable for industry players.</span></p>
 
 <!-- PARAGRAPHS AND SUBTITLES -->
 <h2 ><b>Setting</b></h2>
@@ -37,9 +37,12 @@ Image by NVIDIA corporation</p>
 <p class="p3"><span class="s2">Transparency</span><span class="s1"> encompasses many concepts such as interpretability, Explainability and comprehensibility for different stakeholders, as well as result reproducibility and explainability. Throughout model evaluation, monitoring and maintenance, explainability methods and MLOps practices such as reproducibility and versioning promote transparency.</span></p>
 <br>
 
+<!-- REFERENCE -->
 <h2><b>Reference</b></h2>
 <p class="p3"><span class="s1">Yann Billeter, Philipp Denzel, Ricardo Chavarriaga, Oliver Forster, Frank-Peter Schilling, Stefan Brunner, Carmen Frischknecht-Gruber, Monika Reif, and Joanna Weng (2024). MLOps as Enabler of Trustworthy AI. ZHAW Digital Collection. Available at: <a href="https://digitalcollection.zhaw.ch/bitstream/11475/30443/3/2024_Billeter-etal_MLOps-for-Trustworthy-AI_SDS24.pdf"><span class="s3">Link</span></a></span></p>
 <br>
+
+<!-- RESOURCES -->
 <h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; color: #012087; -webkit-text-stroke: #012087"><span class="s1"><b>Recommended Resources:</b></span></h1>
 <table style="width:100%;align:center;">
 <tr>

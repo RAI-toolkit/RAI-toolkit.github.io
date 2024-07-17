@@ -12,12 +12,12 @@ header:
 <body>
 
 <!-- IMAGE -->
-<p class="image" style="font:6.0px; text-align: right;"><img src="/assets/images/onepagers/mlops_for_tai.png" alt="MLOps_Image.png"><br>
+<p class="image" style="font-size:6.0px; text-align:right;"><img src="/assets/images/onepagers/mlops_for_tai.png" alt="MLOps_Image.png"><br>
 Image by NVIDIA corporation</p>
 
 <!-- ABSTRACT -->
 <p style="color:red;">This is a red paragraph.</p>
-<p class="notice--info"><span style="font:18.0px;">MLOps provides a framework to implement trustworthy AI and makes trustworthy AI realisable for industry players.</span></p>
+<p class="notice--info"><span style="font-size:18.0px;">MLOps provides a framework to implement trustworthy AI and makes trustworthy AI realisable for industry players.</span></p>
 
 <!-- PARAGRAPHS AND SUBTITLES -->
 <h2 ><b>Setting</b></h2>

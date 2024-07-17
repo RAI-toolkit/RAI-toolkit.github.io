@@ -59,7 +59,3 @@ Image by NVIDIA corporation</p>
 <td class="middle" align="center" style="font-size:140%;width: 25%;vertical-align:top">
  	<a href="ethics/assessment%20tool/ALTAI-The-Assessment-List-for-Trustwor/"><img src="/assets/images/RAI_toolkit/Assess.png" alt="ALTAI - The Assessment List for Trustworthy Artificial Intelligence" width="200" border="10"><br><br>ALTAI - The Assessment List for Trustworthy Artificial Intelligence</a>
 </td>
-</tr>
-</table>
-</body>
-</html>

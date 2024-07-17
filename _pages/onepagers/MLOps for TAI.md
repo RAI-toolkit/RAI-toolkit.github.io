@@ -4,6 +4,7 @@ title: "MLOps for Trustworthy AI"
 layout: single
 author_profile: true
 classes: wide
+excerpt: "One-Pagers for a concise introduction"
 header:
   image: /assets/images/onepagers/mlops_for_tai.png
 ---

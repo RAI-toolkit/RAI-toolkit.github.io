@@ -42,7 +42,7 @@ Image by NVIDIA corporation</p>
 <br>
 
 <!-- RESOURCES -->
-<h1><b>Recommended Foll0w-Ups:</b></h1>
+<h1><b>Recommended Follow-Ups:</b></h1>
 <br>
 
 <h1><b>Recommended Resources:</b></h1>

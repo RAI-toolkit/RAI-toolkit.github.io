@@ -10,12 +10,12 @@ header:
 
 <html>
 <body>
-<p class="p1"><span class="s1"><img src="/assets/images/onepagers/mlops_for_tai.png" alt="MLOps_Image.png"><br>
-Image by NVIDIA corporation</span></p>
+<p class="image" style="font:10.0px"><img src="/assets/images/onepagers/mlops_for_tai.png" alt="MLOps_Image.png"><br>
+Image by NVIDIA corporation</p>
 
-<p class="p3"><span class="notice">MLOps provides a framework to implement trustworthy AI and makes trustworthy AI realisable for industry players.</span></p>
+<p class="introduction" style="font: 18.0px"><span class="notice--info">MLOps provides a framework to implement trustworthy AI and makes trustworthy AI realisable for industry players.</span></p>
 <h2 ><b>Setting</b></h2>
-<p class="p3"><span class="s1">Emerging regulations call for high-level ethical guidelines for Trustworthy AI (TAI). This rises the need for a framework of related technical guidelines and workflows. Machine Learning Operations (MLOps) is a framework inspired by DevOps (development and operations) and encompasses a set of methods, best practices and tools that cover all stages from project setup over deployment to continuous operation. MLOps can naturally be extended to meet the requirements of TAI.</span></p>
+<p class="p">Emerging regulations call for high-level ethical guidelines for Trustworthy AI (TAI). This rises the need for a framework of related technical guidelines and workflows. Machine Learning Operations (MLOps) is a framework inspired by DevOps (development and operations) and encompasses a set of methods, best practices and tools that cover all stages from project setup over deployment to continuous operation. MLOps can naturally be extended to meet the requirements of TAI.</p>
 <h2><b>Dimensions</b></span></h2>
 <p class="p3"><span class="s1">The right level of </span><span class="s2">autonomy</span><span class="s1"> for the AI application and adequate control by humans can be addressed during the MLOps stages of model engineering, deployment, monitoring and maintenance.</span></p>
 <p class="p3"><span class="s2">Fairness</span><span class="s1"> prevents unjust discrimination in AI use. It can be ensured by constraint enforcement and ongoing monitoring in the model engineering and monitoring stages.</span></p>

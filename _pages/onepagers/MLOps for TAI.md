@@ -42,8 +42,8 @@ Image by NVIDIA corporation</p>
 <br>
 
 <!-- RESOURCES -->
-<h1><b>Recommended Follw-Ups:</b></h1>
-
+<h1><b>Recommended Foll0w-Ups:</b></h1>
+<br>
 
 <h1><b>Recommended Resources:</b></h1>
 <table style="width:100%;align:center;">
@@ -61,6 +61,5 @@ Image by NVIDIA corporation</p>
 </td>
 </tr>
 </table>
-<br>
 </body>
 </html>
